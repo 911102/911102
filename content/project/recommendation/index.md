@@ -1,5 +1,5 @@
 ---
-title:策略後果分析
+title: 策略後果分析
 
 summary: 
 tags:
