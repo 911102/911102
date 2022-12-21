@@ -1,5 +1,5 @@
 ---
-title: life is hard to not be hard——
+title: life is hard to not be hard
 尋找人生的意義
 
 
